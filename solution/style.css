@@ -1,0 +1,18 @@
+#playingField {
+	background: red;
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+}
+
+.greenBall {
+	position: absolute;
+	background: green;
+	width: 75px;
+	height: 75px;
+	border-radius: 100%;
+	top: 0;
+	left: 0;
+}
